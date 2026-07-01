@@ -1,0 +1,316 @@
+canonical_identifier: bkk:krp/KR6v0342/v1
+canonical_location: https://kanripo.org/bkk/KR6v0342/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋量論略解
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0043.xml
+    old_id: B09n0043
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0342_000.yaml, hash: 'sha256:8c9fba1573c72101b85b979df148fe127ca7aa65b6bdc97f3c709fff8b0dd768'}
+  - {seq: 1, filename: KR6v0342_001.yaml, hash: 'sha256:053079639433c02d7880eea97aced0b0c22f36929cf0297fa3f87dd12f908c5d'}
+  - {seq: 2, filename: KR6v0342_002.yaml, hash: 'sha256:38e874e5f2bccfe1916916b4d4e6e3fe4a6dfb38720167b2102b3da7c408794a'}
+  - {seq: 3, filename: KR6v0342_003.yaml, hash: 'sha256:07d33d749cb2eff8b977dd8aa0768c02cad5f58aabbb7587f967ca0c30c1e88f'}
+  - {seq: 4, filename: KR6v0342_004.yaml, hash: 'sha256:b7a297867f9f0004e2f6a5f1bcfb050c20c6d4784850adbf4b4472dd20dfd607'}
+  - {seq: 5, filename: KR6v0342_005.yaml, hash: 'sha256:7ece5d921a8fb6bbb5236c1920a25a381c1f65e394d874229a5ed8d23e43f8ad'}
+  - {seq: 6, filename: KR6v0342_006.yaml, hash: 'sha256:2132a1f364433c3be8a55d9f00707c01f9881472683837d2561dc223049398fa'}
+  - {seq: 7, filename: KR6v0342_007.yaml, hash: 'sha256:603475f8f8e1b79eec07316445ff5c20002c868cace942e296bd80ea671ac2cf'}
+  - {seq: 8, filename: KR6v0342_008.yaml, hash: 'sha256:db02e29fb1be67e61e86ef4c5e11ee334c255971dc7b077f9a32390fd18e5b10'}
+  - {seq: 9, filename: KR6v0342_009.yaml, hash: 'sha256:80d3e79f4e11970018e5f65ee397b30643b97b9e3d3b75cb8b07ab8975048fe6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0342_000.markers.yaml, hash: 'sha256:2903ba6f8dfc5dc5fe93e5f8ce01913d922c1e0ddffc6fdb14fc05ee7c9ebe39'}
+  - {seq: 1, role: markers, filename: assets/KR6v0342_001.markers.yaml, hash: 'sha256:384796c1eb658b019abb44a513a3d226b8c018e077edd2f3e3a76d9f287e94d0'}
+  - {seq: 2, role: markers, filename: assets/KR6v0342_002.markers.yaml, hash: 'sha256:4c86c0260f943546c17e317596ad2cefe97fbe9722eb17e8b4636f480e6ced7f'}
+  - {seq: 3, role: markers, filename: assets/KR6v0342_003.markers.yaml, hash: 'sha256:31a4a52773de5ccde1dc0c42a1d8952c9526ab0c67fed93df264d181060cb9f7'}
+  - {seq: 4, role: markers, filename: assets/KR6v0342_004.markers.yaml, hash: 'sha256:c8536fa21fa0f5988226f9cf5d2ccb55eecb669faf6d9f28b8608a7b2c036a7c'}
+  - {seq: 5, role: markers, filename: assets/KR6v0342_005.markers.yaml, hash: 'sha256:970ce936f9d17c7b7d2134cc0174876a1af4d0ff975db8c157f6ee0628f7251a'}
+  - {seq: 6, role: markers, filename: assets/KR6v0342_006.markers.yaml, hash: 'sha256:4dad538f894ec4fb411abf4dc5b5c11cab68bbdccfecc529ac63e358b08f0466'}
+  - {seq: 7, role: markers, filename: assets/KR6v0342_007.markers.yaml, hash: 'sha256:5b32f166187c643c62f9b9103f957d5672d8e10f0b2a9f2dac82fc3f73ddc821'}
+  - {seq: 8, role: markers, filename: assets/KR6v0342_008.markers.yaml, hash: 'sha256:3ebb75f6c9089388898b7e7cb2e5bac94ca58ac81324a550623f8d91e4b81c02'}
+  - {seq: 9, role: markers, filename: assets/KR6v0342_009.markers.yaml, hash: 'sha256:59cd6a089fcae8e618c6eb266e0a8c9799447c959692d84d2d4efebd47bd2d96'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 譯序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-2
+    span:
+    - front
+    - 1066
+    - 1066
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-3
+    span:
+    - front
+    - 2997
+    - 2997
+  label: 引言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-4
+    span:
+    - front
+    - 3262
+    - 3262
+  label: 附註
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-5
+    span:
+    - front
+    - 3351
+    - 3351
+  label: 科判目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-6
+    span:
+    - front
+    - 3360
+    - 3360
+  label: 卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-7
+    span:
+    - front
+    - 4420
+    - 4420
+  label: 卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-8
+    span:
+    - front
+    - 5458
+    - 5458
+  label: 卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-9
+    span:
+    - front
+    - 6223
+    - 6223
+  label: 卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-10
+    span:
+    - front
+    - 7076
+    - 7076
+  label: 卷第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-11
+    span:
+    - front
+    - 7915
+    - 7915
+  label: 卷第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-12
+    span:
+    - front
+    - 8858
+    - 8858
+  label: 卷第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-13
+    span:
+    - front
+    - 9727
+    - 9727
+  label: 卷第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0342_B_000-mulu-14
+    span:
+    - front
+    - 10606
+    - 10606
+  label: 卷第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0342_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 17453
+  label: 釋量論略解　卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0342_B_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0342_B_001-mulu-2
+    span:
+    - body
+    - 490
+    - 490
+  label: 自義品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0342_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 17720
+  label: 釋量論略解　卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0342_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 14271
+  label: 釋量論略解　卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0342_B_003-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 成量品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0342_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 13761
+  label: 釋量論略解　卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0342_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 16429
+  label: 釋量論略解　卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0342_B_005-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 現量品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0342_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 17631
+  label: 釋量論略解　卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0342_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 18248
+  label: 釋量論略解　卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0342_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 15866
+  label: 釋量論略解　卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0342_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 17924
+  label: 釋量論略解　卷第九
+  type: juan
+  level: 1
+hash: sha256:2c420df9c5893e3fee830059e1d45c01441086de6d4bc85981f0748a1613f103
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
