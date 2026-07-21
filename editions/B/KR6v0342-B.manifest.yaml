@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0342_000-B.yaml, hash: 'sha256:ab47b24c2cd3f1204c054da48b36fa415f59f129b97ad6a4abe3e34ea7e97e34'}
+  - {seq: 0, filename: KR6v0342_000-B.yaml, hash: 'sha256:5580deb6d6c44834fef2216fd52f6a8064cf25720e95e2a0464261a647b20408'}
   - {seq: 1, filename: KR6v0342_001-B.yaml, hash: 'sha256:51a11b1301dfe61676e7879d276c20520bdb9a102fd7d46d4470e1beb29a6a34'}
   - {seq: 2, filename: KR6v0342_002-B.yaml, hash: 'sha256:79e1397026f55144d4c3579ed5150527553661f545b734c4801cd34ab592a3f1'}
   - {seq: 3, filename: KR6v0342_003-B.yaml, hash: 'sha256:657156c218309f7c8a8d945706e8ce63b209b8fe9c06d7c508cea0d402f4eea4'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6v0342_008-B.yaml, hash: 'sha256:19a5cfc26f6e6f02429ba791444f175e14be1332818244fbe53f12eb6604ee2c'}
   - {seq: 9, filename: KR6v0342_009-B.yaml, hash: 'sha256:e21eea75c3981f2770921725e74004f8a9589c70ca70b797e2fea2fb3b73701a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0342_000-B.markers.yaml, hash: 'sha256:eecab448e8314e29bfd0a16d42cab896cde1cd9f1c2a5737f77cd579c09abbd4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0342_000-B.markers.yaml, hash: 'sha256:560bd47a8166cf0cbf0b8c2463874d2b43b18e83f53e0c53e9d34713d6de4288'}
   - {seq: 1, role: markers, filename: assets/KR6v0342_001-B.markers.yaml, hash: 'sha256:234b21b0f4801e90392b3b294d8171db377948c158669cb9e3e2a2d1792faf72'}
   - {seq: 2, role: markers, filename: assets/KR6v0342_002-B.markers.yaml, hash: 'sha256:1c590c5516646bfed6f832d7ac6e3d4e333dfc8b52b8855cda24bb9bcdbf05dc'}
   - {seq: 3, role: markers, filename: assets/KR6v0342_003-B.markers.yaml, hash: 'sha256:92e6858c3c63986d2bc8cdf17200a1af8e1f91d74f782105bed3c99fa92f18ba'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 譯序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-2
     span:
-    - front
+    - body
     - 1066
     - 1066
   label: 序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-3
     span:
-    - front
+    - body
     - 2997
     - 2997
   label: 引言
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-4
     span:
-    - front
+    - body
     - 3262
     - 3262
   label: 附註
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-5
     span:
-    - front
+    - body
     - 3351
     - 3351
   label: 科判目錄
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-6
     span:
-    - front
+    - body
     - 3360
     - 3360
   label: 卷第一
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-7
     span:
-    - front
+    - body
     - 4420
     - 4420
   label: 卷第二
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-8
     span:
-    - front
+    - body
     - 5458
     - 5458
   label: 卷第三
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-9
     span:
-    - front
+    - body
     - 6223
     - 6223
   label: 卷第四
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-10
     span:
-    - front
+    - body
     - 7076
     - 7076
   label: 卷第五
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-11
     span:
-    - front
+    - body
     - 7915
     - 7915
   label: 卷第六
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-12
     span:
-    - front
+    - body
     - 8858
     - 8858
   label: 卷第七
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-13
     span:
-    - front
+    - body
     - 9727
     - 9727
   label: 卷第八
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-14
     span:
-    - front
+    - body
     - 10606
     - 10606
   label: 卷第九
@@ -311,4 +311,4 @@ table_of_contents:
   label: 釋量論略解　卷第九
   type: juan
   level: 1
-hash: sha256:f0df5214fba4941d74d7b2486d73001938ed17954d00fd4e7fb93d9924f5b70d
+hash: sha256:e48db9b970148514c3494b7971e0cd8520169d50b142fb578a65300039cde845

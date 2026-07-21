@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0342_000.yaml, hash: 'sha256:e20c9739256c06fa661e5ca374a12c7114e1002fe3dc01e4e4dedd44368854cc'}
+  - {seq: 0, filename: KR6v0342_000.yaml, hash: 'sha256:6d03ca454eb0f2f388395e3bf44753bc41ffadeed551de2a6dc95ee77d77b629'}
   - {seq: 1, filename: KR6v0342_001.yaml, hash: 'sha256:693c7c08ce84c4cee044a58f2f81bcbfb96073edb9c51f1613f33da20aac437f'}
   - {seq: 2, filename: KR6v0342_002.yaml, hash: 'sha256:7693a278a1fd1b397d6d5869f908a343c36f28b057d41117533c9dfccaa5dc56'}
   - {seq: 3, filename: KR6v0342_003.yaml, hash: 'sha256:59b7ac00a3b9795f0a75e2c0b5820f07dcf30414a3f40d13d7cdcb71efed9ec8'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 8, filename: KR6v0342_008.yaml, hash: 'sha256:2b950496bf8491926f9d04a71ddab16d58e505efb9931b7bc0f42a04ad07b743'}
   - {seq: 9, filename: KR6v0342_009.yaml, hash: 'sha256:a0dabdd5da616af0e337364bd8f05b1bb9ac7c4a0829991d0c066aebe3e7287f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0342_000.markers.yaml, hash: 'sha256:d0299b979137ec933301dadac04d5e6484cbdaa1da4aa6943941b28b264d2c15'}
+  - {seq: 0, role: markers, filename: assets/KR6v0342_000.markers.yaml, hash: 'sha256:ae34f8d61769726f8e88f70941af2abbf7086d235eb74b658154d19b66d3cd81'}
   - {seq: 1, role: markers, filename: assets/KR6v0342_001.markers.yaml, hash: 'sha256:2e373778a09a3e81900f9850844a5eb1e3bdfe371ed8548b397007b3307609a3'}
   - {seq: 2, role: markers, filename: assets/KR6v0342_002.markers.yaml, hash: 'sha256:169e051b72165efa4b4fdb653983e99a1aea14fb833941e5b477c4644df6b1ce'}
   - {seq: 3, role: markers, filename: assets/KR6v0342_003.markers.yaml, hash: 'sha256:774bd2cfdd84fbd170dff65a7d27e18eb79c5e137ba235b6933bbbe56ceecebf'}
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 譯序
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-2
     span:
-    - front
+    - body
     - 1066
     - 1066
   label: 序
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-3
     span:
-    - front
+    - body
     - 2997
     - 2997
   label: 引言
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-4
     span:
-    - front
+    - body
     - 3262
     - 3262
   label: 附註
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-5
     span:
-    - front
+    - body
     - 3351
     - 3351
   label: 科判目錄
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-6
     span:
-    - front
+    - body
     - 3360
     - 3360
   label: 卷第一
@@ -104,7 +104,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-7
     span:
-    - front
+    - body
     - 4420
     - 4420
   label: 卷第二
@@ -114,7 +114,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-8
     span:
-    - front
+    - body
     - 5458
     - 5458
   label: 卷第三
@@ -124,7 +124,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-9
     span:
-    - front
+    - body
     - 6223
     - 6223
   label: 卷第四
@@ -134,7 +134,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-10
     span:
-    - front
+    - body
     - 7076
     - 7076
   label: 卷第五
@@ -144,7 +144,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-11
     span:
-    - front
+    - body
     - 7915
     - 7915
   label: 卷第六
@@ -154,7 +154,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-12
     span:
-    - front
+    - body
     - 8858
     - 8858
   label: 卷第七
@@ -164,7 +164,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-13
     span:
-    - front
+    - body
     - 9727
     - 9727
   label: 卷第八
@@ -174,7 +174,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0342_B_000-mulu-14
     span:
-    - front
+    - body
     - 10606
     - 10606
   label: 卷第九
@@ -310,7 +310,7 @@ table_of_contents:
   label: 釋量論略解　卷第九
   type: juan
   level: 1
-hash: sha256:b6c89ae7fe27a2c4d625190b8091dccb1ca59b0b1d4ac8c4488fb74dad7286e2
+hash: sha256:9bdf4dc2c2fb29928eed63f567602030c84854dc8f757467e85fe553c22b5e2c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
